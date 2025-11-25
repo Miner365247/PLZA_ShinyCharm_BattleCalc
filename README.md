@@ -11,7 +11,7 @@ As of now, there is no .exe, so you will need to have Python, along with the pyt
 First, you need to start your method to grind battles and see how long it takes until you are done (see below for tips on timing), then choose the appropriate set number, then input the number of wins in the first propmpt and how many min it took in the second. After this is done 2 more times, you will click on the calculate button and input how many battles you have completed. The tool will then calcuate how many battles you have left, your battles per minute, battles per hour, and most importantly, how much more time it will take to get 1K battles won.
 
 # Recomended Timings
-Below are some recomended times to start and stop timing. However, some terms are spoilers for late/post game in Pokemon Legends Z-A.
+Below are some recomended times to start and stop timing. However, there are some **minor spoilers** for late/post game in Pokemon Legends Z-A.
 You have been warned.
 
 
@@ -20,17 +20,6 @@ Start timing as soon as the "Battle Zone Activated" cutscene ends, stop timing a
 
 # Any Resturant
 Start timing as the start of the first battle, at the "You are challenged by ..." screen, stop as soon as you are given rewards.
-
-# SPOILER WARNING
-This character that is talked about is in the late game of Pokemon Legends Z-A. Also, this next method is part of the postgame, so if you don't want to have major spoilers for a character or postgame content, stop here!
-
-
-
-
-
-Final chance! Don't say I didn't warn you.
-
-
 
 # Jacinthe*
 *This may not be correct as I have not reached this part of the postgame.
