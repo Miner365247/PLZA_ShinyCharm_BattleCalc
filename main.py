@@ -12,7 +12,7 @@ def begin_calc():
     matches_done=askinteger("Completed Battles","Enter the number of battles you have done so far:")
     output=calc()
     est=est_time()
-    result_text=f"Matches per minute: {output[0]:.4f}\nMatches per hour: {output[1]:.2f}\nEstimated time to 1000 matches: {int(est//60)} hours and {int(est%60)} seconds"
+    result_text=f"Matches per minute: {output[0]:.4f}\nMatches per hour: {output[1]:.2f}\nMatches remaining: {1000-matches_done}\nEstimated time to 1000 matches: {int(est//60)} hours and {int(est%60)} seconds"
     result_label=ttk.Label(root,text=result_text)
     result_label.grid(row=4,column=0,columnspan=2,padx=10,pady=10)
 def calc():
