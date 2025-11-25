@@ -21,7 +21,7 @@ Start timing as soon as the "Battle Zone Activated" cutscene ends, stop timing a
 # Any Resturant
 Start timing as the start of the first battle, at the "You are challenged by ..." screen, stop as soon as you are given rewards.
 
-# Jacinthe*
-*This may not be correct as I have not reached this part of the postgame.
+# Jacinthe Rematches*
+*This may not be correct as I have not reached this part of the postgame. Please let me know if there is anything wrong with my descriptions of this.
 
 Start timing at the first "You are challenged by Jacinthe of the SBC" screen. However, when to stop is where things get complicated. Jacinthe and her rematches are an endurance test, meaning that there is no predefined end, so you choose when to stop timing.
