@@ -1,6 +1,7 @@
 import tkinter as tk
 from tkinter import ttk
 from tkinter.simpledialog import askinteger
+from tkinter import messagebox
 root=tk.Tk()
 root.title("BattleCalc")
 
@@ -11,6 +12,8 @@ def begin_calc():
     global matches_done
     matches_done=askinteger("Completed Battles","Enter the number of battles you have done so far:")
     output=calc()
+    if calc()==False:
+        return
     est=est_time()
     result_text=f"Matches per minute: {output[0]:.4f}\nMatches per hour: {output[1]:.2f}\nMatches remaining: {1000-matches_done}\nEstimated time to 1000 matches: {int(est//60)} hours and {int(est%60)} seconds"
     result_label=ttk.Label(root,text=result_text)
@@ -19,6 +22,9 @@ def calc():
     global global_output
     total_matches=data['run1']['battles']+data['run2']['battles']+data['run3']['battles']
     total_time=data['run1']['time']+data['run2']['time']+data['run3']['time']
+    if total_time==0:
+        messagebox.showerror("Invalid Input","Total time cannot be zero.")
+        return False
     matches_per_min=total_matches/total_time
     matches_per_hour=matches_per_min*60
     global_output=(matches_per_min, matches_per_hour)
