@@ -1,5 +1,5 @@
 # PLZA_ShinyCharm_BattleCalc
-A tool to calculate how many battles you have left until Mable decides you are worthy of the Shiny Charm.
+A tool to calculate how many battles you have left until Mable decides you are worthy of the Shiny Charm in Pokemon Legends Z-A.
 # Why was this tool made?
 I am currently working on obtaining the shiny charm in the 2025 Pokemon game, Pokemon Legends: Z-A. However, you need to win 1000 battles as one of the requirements to obtain it.
 # How do I use this tool?
