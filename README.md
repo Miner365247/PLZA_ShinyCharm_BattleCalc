@@ -20,15 +20,15 @@ Start timing as the start of the first battle, at the "You are challenged by ...
 
 # SPOILER WARNING
 This character that is talked about is in the late game of Pokemon Legends Z-A. Also, this next method is part of the postgame, so if you don't want to have major spoilers for a character or postgame content, stop here!
- 
- 
- 
- 
- 
+
+
+
+
+
 Final chance! Don't say I didn't warn you.
- 
- 
- 
+
+
+
 # Jacinthe*
 *This may not be correct as I have not reached this part of the postgame.
 
